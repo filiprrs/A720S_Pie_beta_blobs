@@ -1,0 +1,17 @@
+16
+AirtelStub.apk
+AppLock.apk
+FBAppManager_NS.apk
+FBInstaller_NS.apk
+FBServices.apk
+Facebook_stub.apk
+LinkedIn_SamsungStub.apk
+LogWriter.apk
+MemorySaver.apk
+MyGalaxyWidget.apk
+MyGalaxyWidget_NEBANGS.apk
+RcsSettings.apk
+SamsungMax.apk
+SamsungMembers.apk
+UltraDataSaving_O.apk
+appcloud_oobe.apk
